@@ -1,0 +1,70 @@
+Neighbors of:     1 Mo at:  -0.0000  3.4477  5.8062
+    2 S                     2.4066  Ang. Really at:   0.0000  6.8953  8.7720
+    3 S                     2.4066  Ang. Really at:   0.0000  6.8953  2.8404
+    2 S                     2.4066  Ang. Really at:  -2.9858  1.7238  8.7720
+    3 S                     2.4066  Ang. Really at:  -2.9858  1.7238  2.8404
+    2 S                     2.4066  Ang. Really at:   2.9858  1.7238  8.7720
+    3 S                     2.4066  Ang. Really at:   2.9858  1.7238  2.8404
+    1 Mo                    3.1600  Ang. Really at:   2.9858  8.6192  5.8062
+    1 Mo                    3.1600  Ang. Really at:   2.9858 -1.7238  5.8062
+    1 Mo                    3.1600  Ang. Really at:  -2.9858  8.6192  5.8062
+    1 Mo                    3.1600  Ang. Really at:  -2.9858 -1.7238  5.8062
+    1 Mo                    3.1600  Ang. Really at:  -5.9715  3.4477  5.8062
+    1 Mo                    3.1600  Ang. Really at:   5.9715  3.4477  5.8062
+Neighbors of:     2 S at:   2.9858  1.7238  8.7720
+    1 Mo                    2.4066  Ang. Really at:   2.9858 -1.7238  5.8062
+    1 Mo                    2.4066  Ang. Really at:   5.9715  3.4477  5.8062
+    1 Mo                    2.4066  Ang. Really at:  -0.0000  3.4477  5.8062
+    3 S                     3.1389  Ang. Really at:   2.9858  1.7238  2.8404
+    2 S                     3.1600  Ang. Really at:   5.9715 -3.4477  8.7720
+    2 S                     3.1600  Ang. Really at:   5.9715  6.8953  8.7720
+    2 S                     3.1600  Ang. Really at:   0.0000  6.8953  8.7720
+    2 S                     3.1600  Ang. Really at:   0.0000 -3.4477  8.7720
+    2 S                     3.1600  Ang. Really at:  -2.9858  1.7238  8.7720
+    2 S                     3.1600  Ang. Really at:   8.9573  1.7238  8.7720
+Neighbors of:     3 S at:   2.9858  1.7238  2.8404
+    1 Mo                    2.4066  Ang. Really at:   2.9858 -1.7238  5.8062
+    1 Mo                    2.4066  Ang. Really at:   5.9715  3.4477  5.8062
+    1 Mo                    2.4066  Ang. Really at:  -0.0000  3.4477  5.8062
+    2 S                     3.1389  Ang. Really at:   2.9858  1.7238  8.7720
+    3 S                     3.1600  Ang. Really at:   5.9715  6.8953  2.8404
+    3 S                     3.1600  Ang. Really at:   0.0000  6.8953  2.8404
+    3 S                     3.1600  Ang. Really at:   5.9715 -3.4477  2.8404
+    3 S                     3.1600  Ang. Really at:   0.0000 -3.4477  2.8404
+    3 S                     3.1600  Ang. Really at:  -2.9858  1.7238  2.8404
+    3 S                     3.1600  Ang. Really at:   8.9573  1.7238  2.8404
+Neighbors of:     4 Mo at:   2.9858  1.7238 17.4186
+    5 S                     2.4066  Ang. Really at:   2.9858 -1.7238 20.3843
+    6 S                     2.4066  Ang. Really at:   2.9858 -1.7238 14.4528
+    5 S                     2.4066  Ang. Really at:   5.9715  3.4477 20.3843
+    6 S                     2.4066  Ang. Really at:   5.9715  3.4477 14.4528
+    5 S                     2.4066  Ang. Really at:  -0.0000  3.4477 20.3843
+    6 S                     2.4066  Ang. Really at:  -0.0000  3.4477 14.4528
+    4 Mo                    3.1600  Ang. Really at:   5.9715  6.8953 17.4186
+    4 Mo                    3.1600  Ang. Really at:   5.9715 -3.4477 17.4186
+    4 Mo                    3.1600  Ang. Really at:   0.0000  6.8953 17.4186
+    4 Mo                    3.1600  Ang. Really at:   0.0000 -3.4477 17.4186
+    4 Mo                    3.1600  Ang. Really at:  -2.9858  1.7238 17.4186
+    4 Mo                    3.1600  Ang. Really at:   8.9573  1.7238 17.4186
+Neighbors of:     5 S at:  -0.0000  3.4477 20.3843
+    4 Mo                    2.4066  Ang. Really at:   0.0000  6.8953 17.4186
+    4 Mo                    2.4066  Ang. Really at:  -2.9858  1.7238 17.4186
+    4 Mo                    2.4066  Ang. Really at:   2.9858  1.7238 17.4186
+    6 S                     3.1389  Ang. Really at:  -0.0000  3.4477 14.4528
+    5 S                     3.1600  Ang. Really at:   2.9858 -1.7238 20.3843
+    5 S                     3.1600  Ang. Really at:   2.9858  8.6192 20.3843
+    5 S                     3.1600  Ang. Really at:  -2.9858  8.6192 20.3843
+    5 S                     3.1600  Ang. Really at:  -2.9858 -1.7238 20.3843
+    5 S                     3.1600  Ang. Really at:  -5.9715  3.4477 20.3843
+    5 S                     3.1600  Ang. Really at:   5.9715  3.4477 20.3843
+Neighbors of:     6 S at:  -0.0000  3.4477 14.4528
+    4 Mo                    2.4066  Ang. Really at:   0.0000  6.8953 17.4186
+    4 Mo                    2.4066  Ang. Really at:  -2.9858  1.7238 17.4186
+    4 Mo                    2.4066  Ang. Really at:   2.9858  1.7238 17.4186
+    5 S                     3.1389  Ang. Really at:  -0.0000  3.4477 20.3843
+    6 S                     3.1600  Ang. Really at:   2.9858  8.6192 14.4528
+    6 S                     3.1600  Ang. Really at:  -2.9858  8.6192 14.4528
+    6 S                     3.1600  Ang. Really at:   2.9858 -1.7238 14.4528
+    6 S                     3.1600  Ang. Really at:  -2.9858 -1.7238 14.4528
+    6 S                     3.1600  Ang. Really at:  -5.9715  3.4477 14.4528
+    6 S                     3.1600  Ang. Really at:   5.9715  3.4477 14.4528

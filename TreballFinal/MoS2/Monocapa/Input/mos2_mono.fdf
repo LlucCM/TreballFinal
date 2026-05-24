@@ -1,0 +1,47 @@
+# Simple fdf for electronic structure calculation
+# https://docs.siesta-project.org/
+SystemLabel mos2_mono
+
+#input structure
+%include structure.fdf
+
+#General aspects Calculation (Basis Set and functional)
+PAO.BasisSize DZP
+PAO.EnergyShift     300 meV
+XC.functional     GGA 
+XC.authors        PBE 
+
+ElectronicTemperature 25 meV
+MaxSCFIterations      300
+DM.MixingWeight       0.05
+MeshCutoff            300 Ry
+
+%block kgrid_Monkhorst_Pack
+  15  0  0  0.0
+   0 15  0  0.0
+   0  0  1  0.0
+%endblock kgrid_Monkhorst_Pack
+
+SaveHS  true
+
+# Geometry Optimization Output
+MD.TypeOfRun    CG
+MD.Steps        200
+MD.MaxForceTol  0.02 eV/Ang
+MD.VariableCell false
+VDW.vdwFormat   Grimme
+
+WriteCoorXmol          true         #Save the final coordinates in .xyz format
+
+WriteMDXmol            true         #Writes the coordinates
+                                    #of all atoms at all steps
+                                    #in a .ANI file
+                                    #in xyz format
+
+WriteMDhistory         true         #writes .MDE and .MD files
+                                    # with output data from MD simulation
+                                    # MDE contains: Temp, energy, volume, pressure
+                                    # (human readable)
+                                    # MD contains coords vel lattice vectors
+                                    # (unformatted; post-process with iomd.f)
+
