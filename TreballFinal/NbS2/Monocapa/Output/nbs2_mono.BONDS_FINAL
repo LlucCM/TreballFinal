@@ -1,0 +1,17 @@
+Neighbors of:     1 Nb at:   0.0000  3.6114 18.8967
+    2 S                     2.3348  Ang. Really at:   3.1275  1.8057 21.4314
+    3 S                     2.3348  Ang. Really at:   3.1275  1.8057 16.3619
+    3 S                     2.3348  Ang. Really at:  -0.0000  7.2227 16.3619
+    2 S                     2.3348  Ang. Really at:  -3.1275  1.8057 21.4314
+    2 S                     2.3348  Ang. Really at:  -0.0000  7.2227 21.4314
+    3 S                     2.3348  Ang. Really at:  -3.1275  1.8057 16.3619
+Neighbors of:     2 S at:   3.1275  1.8057 21.4314
+    1 Nb                    2.3348  Ang. Really at:   0.0000  3.6114 18.8967
+    1 Nb                    2.3348  Ang. Really at:   6.2550  3.6114 18.8967
+    1 Nb                    2.3348  Ang. Really at:   3.1275 -1.8057 18.8967
+    3 S                     2.6827  Ang. Really at:   3.1275  1.8057 16.3619
+Neighbors of:     3 S at:   3.1275  1.8057 16.3619
+    1 Nb                    2.3348  Ang. Really at:   0.0000  3.6114 18.8967
+    1 Nb                    2.3348  Ang. Really at:   3.1275 -1.8057 18.8967
+    1 Nb                    2.3348  Ang. Really at:   6.2550  3.6114 18.8967
+    2 S                     2.6827  Ang. Really at:   3.1275  1.8057 21.4314
