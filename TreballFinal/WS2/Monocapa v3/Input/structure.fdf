@@ -1,0 +1,20 @@
+LatticeConstant 1.0 Ang
+%block LatticeVectors
+ 3.153000    0.000000    0.000000
+-1.576500    2.730598    0.000000
+ 0.000000    0.000000   20.000000
+%endblock LatticeVectors
+
+NumberOfAtoms 3
+AtomicCoordinatesFormat Fractional
+%block AtomicCoordinatesAndAtomicSpecies
+  0.333333    0.666667    0.500000 1 # 1: W 1
+  0.666667    0.333333    0.578500 2 # 2: S 1 (superior)
+  0.666667    0.333333    0.421500 2 # 3: S 1 (inferior)
+%endblock AtomicCoordinatesAndAtomicSpecies
+
+NumberOfSpecies 2
+%block ChemicalSpeciesLabel
+ 1 74 W
+ 2 16 S
+%endblock ChemicalSpeciesLabel
